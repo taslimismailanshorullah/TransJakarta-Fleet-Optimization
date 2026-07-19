@@ -21,7 +21,7 @@ Berdasarkan hasil K-Means Clustering, rute disegmentasi menjadi tiga kategori un
 2. **Medium Priority (25%):** Berfungsi utamanya sebagai armada *feeder*. **Rekomendasi:** Pertahankan tingkat layanan standar dengan pemantauan performa berbasis data secara rutin.
 3. **Low Priority (25%):** Didominasi oleh Angkutan Umum Integrasi yang menunjukkan redundansi dan efisiensi rendah. **Rekomendasi:** Evaluasi ulang untuk efisiensi, penggabungan/penghapusan rute yang kurang berkinerja, dan realokasi armada ke koridor dengan dampak yang lebih tinggi.
 
-*(Letakkan screenshot poster infografis TransJakarta kamu di sini dengan cara men-drag and drop file gambarnya)*
+<img width="674" height="897" alt="image" src="https://github.com/user-attachments/assets/942abb7d-ee7a-4c81-ad89-27350a102c6b" />
 
 ## Struktur Repositori
 - `data/` : Folder berisi dataset historis penumpang TransJakarta https://www.kaggle.com/code/robincolinkang/transjakarta-2021-data/input.
