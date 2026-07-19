@@ -24,6 +24,6 @@ Berdasarkan hasil K-Means Clustering, rute disegmentasi menjadi tiga kategori un
 *(Letakkan screenshot poster infografis TransJakarta kamu di sini dengan cara men-drag and drop file gambarnya)*
 
 ## Struktur Repositori
-- `data/` : Folder berisi dataset historis penumpang TransJakarta.
+- `data/` : Folder berisi dataset historis penumpang TransJakarta https://www.kaggle.com/code/robincolinkang/transjakarta-2021-data/input.
 - `notebooks/` : *Source code* lengkap (Jupyter Notebook) untuk EDA, Pareto Analysis, dan K-Means Clustering.
 - `Optimizing TransJakarta Fleet Allocation using Route Density Clustering.png` : Poster infografis rangkuman eksekutif proyek.
